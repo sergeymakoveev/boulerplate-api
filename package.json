@@ -1,0 +1,16 @@
+{
+  "name": "boulerplate-api",
+  "version": "1.0.0",
+  "description": "Rest API for boulerplates",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.12.0",
+    "ramda": "^0.24.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Makoveev <sergey.makoveev@codeinside.ru> (http://sergey.makoveev.info)",
+  "license": "Commercial"
+}
